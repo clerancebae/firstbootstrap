@@ -1,4 +1,4 @@
-Hi there! I am Berke aka Clerance
+Hi there! I am Berke aka Clerance.
 
 This is my first bootstrap work
 
